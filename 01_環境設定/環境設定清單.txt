@@ -33,4 +33,6 @@ B. 快速鍵 (Windows)：https://code.visualstudio.com/docs/getstarted/keybindin
 
 	. Shift + Alt + ↓ / ↑：可以複製一行
 	. Shift + Alt + ↓ / ↑：可以複製一行
+
+	測試
 	
